@@ -1,3 +1,11 @@
+# Homework: Your job is to make a custom calculator. 
+# Your calculator should accept at least three values. 
+# It should print a prompt that makes it clear what is being calculated. 
+# After accepting input the calculator should perform an accurate calculation 
+# and display the results in a clear and well formatted message. 
+# Be sure to convert your numeric values to numbers before performing math operations!
+
+
 # 5e stat calculation by roll 4d6 dropping the lowest
 # Had to look up how to drop the lowest, found min(). Neat!
 def stat_calc(first,second,third,fourth):
